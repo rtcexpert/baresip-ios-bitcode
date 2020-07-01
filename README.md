@@ -1,7 +1,7 @@
 baresip-ios
 ===========
 
-Baresip for iOS
+Baresip with bitcode for iOS
 
 
 This project shows how to cross compile baresip for iOS.
