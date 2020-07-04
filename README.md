@@ -1,7 +1,7 @@
-baresip-ios
-===========
+baresip-ios-bitcode
+===================
 
-Baresip with bitcode for iOS
+Baresip with bitcode for iOS also with OPENSSL (TLS/SRTP).
 
 
 This project shows how to cross compile baresip for iOS.
